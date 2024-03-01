@@ -1,0 +1,31 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.card {
+  padding: 2em;
+}
+
+
+.entity-container {
+  padding: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.747);
+  border-radius: 5px 3px;
+  margin: 50px;
+}
+
+.Landing{
+  height: 100vh;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+span{
+  color: red;
+  font-weight: 700;
+}
